@@ -14,6 +14,6 @@ Contributions:
 - MEMS-based hardware design.
 - Vibration signal processing algorithms.
 - Deep learning model for fault classification.
--Calibration and signal conditioning techniques.
+- Calibration and signal conditioning techniques.
 
 Note: This repository is a work in progress, and contributions or feedback are welcome.
