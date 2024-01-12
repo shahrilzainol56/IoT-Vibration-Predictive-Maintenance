@@ -3,16 +3,17 @@ This repository houses the code and documentation for a comprehensive IoT-based 
 
 Key Objectives:
 
-Design a MEMS-based vibration monitoring system for rotating machinery.
-Evaluate system performance through rolling-element bearing fault diagnostics.
-Develop a supervised deep learning model (CNN) for accurate fault classification.
-Preliminary Experiment:
-A preliminary experiment has been conducted using a vibration test rig, focusing on imbalance fault detection. Results indicate successful detection of high vibration at the fundamental frequency (1X RPM). However, further calibration and signal conditioning are needed to address amplitude scaling and noise floor issues.
+- Design a MEMS-based vibration monitoring system for rotating machinery.
+- Evaluate system performance through rolling-element bearing fault diagnostics.
+- Develop a supervised deep learning model (CNN) for accurate fault classification.
+- Preliminary Experiment:
+- A preliminary experiment has been conducted using a vibration test rig, focusing on imbalance fault detection. Results indicate successful detection of high vibration at the fundamental frequency (1X RPM). However, further calibration and signal conditioning are needed to address amplitude scaling and noise floor issues.
 
 Contributions:
 
-MEMS-based hardware design.
-Vibration signal processing algorithms.
-Deep learning model for fault classification.
-Calibration and signal conditioning techniques.
+- MEMS-based hardware design.
+- Vibration signal processing algorithms.
+- Deep learning model for fault classification.
+-Calibration and signal conditioning techniques.
+
 Note: This repository is a work in progress, and contributions or feedback are welcome.
