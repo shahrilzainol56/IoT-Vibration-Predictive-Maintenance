@@ -7,8 +7,12 @@ Key Objectives:
 - Evaluate system performance through rolling-element bearing fault diagnostics.
 - Develop a supervised deep learning model (CNN) for accurate fault classification.
 
-Contributions:
+Hardware:
+- ADXL1002 MEMS Accelerometer
+- ADC 4 Click (AD7175-8 Development Board)
+- STM32 Nucleo-L432KC Microcontroller
 
+Contributions:
 - MEMS-based hardware design.
 - Vibration signal processing algorithms.
 - Deep learning model for fault classification.
