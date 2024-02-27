@@ -1,0 +1,6 @@
+../Core/Src/AD7175.c:69:9:AD7175_ReadRegister	6
+../Core/Src/AD7175.c:112:9:AD7175_WriteRegister	4
+../Core/Src/AD7175.c:154:9:AD7175_WaitForReady	5
+../Core/Src/AD7175.c:180:9:AD7175_ReadData	1
+../Core/Src/AD7175.c:201:9:AD7175_ComputeCRC	4
+../Core/Src/AD7175.c:225:9:AD7175_Setup	36
